@@ -20,7 +20,7 @@ git clone https://github.com/ZhuBoao/Social-Network-App-Demo
 **Note:** This project is using [Yarn](https://yarnpkg.com/en/ "Yarn") as dependency managemeng tool. Please make sure to [install it](https://yarnpkg.com/en/docs/install "Yarn") first.
 
 ```
-cd react-native-elements-app
+cd Social-Network-App-Demo
 yarn install
 ```
 
