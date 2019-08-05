@@ -1,14 +1,5 @@
 import React, { PureComponent } from "react";
-import {
-    ScrollView,
-    View,
-    Text,
-    StyleSheet,
-    ActivityIndicator,
-    Modal,
-    TouchableOpacity,
-    TouchableWithoutFeedback
-} from "react-native";
+import { ScrollView, View, Text, StyleSheet, Modal, TouchableOpacity } from "react-native";
 import { NavigationScreenProps } from "react-navigation";
 import { Ionicons, Feather } from "@expo/vector-icons";
 import { User } from "../models/user";

@@ -38,8 +38,8 @@ export const login = (user: User): LoginAction => {
     return {
         type: "LOGIN",
         user: user
-    }
-}
+    };
+};
 
 interface LogoutAction {
     type: "LOGOUT";
@@ -48,8 +48,8 @@ interface LogoutAction {
 export const logout = (): LogoutAction => {
     return {
         type: "LOGOUT"
-    }
-}
+    };
+};
 
 const fetchUsers = (): ((dispatch: Dispatch) => Promise<User[]>) => {
     return async dispatch => {

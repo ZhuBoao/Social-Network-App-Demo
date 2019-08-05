@@ -14,7 +14,10 @@ const initialAlbumState: AlbumState = {
     albumUserMap: {}
 };
 
-const albumReducer = (state: AlbumState = initialAlbumState, action: SocialAppAction): AlbumState => {
+const albumReducer = (
+    state: AlbumState = initialAlbumState,
+    action: SocialAppAction
+): AlbumState => {
     switch (action.type) {
         case "REQUEST_ALBUM":
             return Object.assign({}, state, {

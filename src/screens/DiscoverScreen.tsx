@@ -27,12 +27,12 @@ class DiscoverScreen extends PureComponent<DiscoverScreenProps> {
         if (this.checkLogin()) {
             this.props.navigation.navigate("Albums", { user: this.props.user });
         }
-    }
+    };
     onPostTouch = () => {
         if (this.checkLogin()) {
             this.props.navigation.navigate("Posts", { user: this.props.user });
         }
-    }
+    };
 
     renderItem = (title: string, onPress: () => void) => {
         return (

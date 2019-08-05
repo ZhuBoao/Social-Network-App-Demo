@@ -14,7 +14,10 @@ const initialPhotoState: PhotoState = {
     photoAlbumMap: {}
 };
 
-const photoReducer = (state: PhotoState = initialPhotoState, action: SocialAppAction): PhotoState => {
+const photoReducer = (
+    state: PhotoState = initialPhotoState,
+    action: SocialAppAction
+): PhotoState => {
     switch (action.type) {
         case "REQUEST_PHOTO":
             return Object.assign({}, state, {
