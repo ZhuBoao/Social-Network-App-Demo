@@ -1,6 +1,7 @@
 # Social-Network-App-Demo
 
-This is a Social Network App Demo built by React Native. It has been tested on my iPhone X (iOS 12) and Redmi Note 7 Pro (Android 9).
+This is a Social Network App Demo built by React Native.
+It has been tested on my iPhone X (iOS 12) and Redmi Note 7 Pro (Android 9).
 
 | Author | Leonardo Zhu              |
 | ------ | ------------------------- |
@@ -8,22 +9,22 @@ This is a Social Network App Demo built by React Native. It has been tested on m
 
 ## Run it locally
 
-1. Clone the project
+1. **Clone the project**
 
 ```
-git clone https://github.com/react-native-training/react-native-elements-app.git
+git clone https://github.com/ZhuBoao/Social-Network-App-Demo
 ```
 
-2. Install dependencies
+2. **Install dependencies**
 
-**Note:** This project is using [Yarn](https://yarnpkg.com/en/ "Yarn") as dependency managemeng tool. Please make sure to [install it](https://yarnpkg.com/en/docs/install "Yarn") first.
+    **Note:** This project is using [Yarn](https://yarnpkg.com/en/ "Yarn") as dependency managemeng tool. Please make sure to [install it](https://yarnpkg.com/en/docs/install "Yarn") first.
 
 ```
 cd react-native-elements-app
 yarn install
 ```
 
-3. Start the project through Expo
+3. **Start the project through Expo**
 
 ```
 yarn start
