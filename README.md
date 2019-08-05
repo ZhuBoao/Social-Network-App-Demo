@@ -39,3 +39,10 @@ Press **i** to start a iOS simulator or **a** to start a Andoird simulator for t
 *   User list, post screen, comment screen, album screen, photo viewer via https://jsonplaceholder.typicode.com/ API implementation.
 
 -   A mock login screen (no password check)
+
+https://raw.githubusercontent.com/ZhuBoao/Social-Network-App-Demo/master/assets/images/screenshot.jpg
+
+
+## Screenshots
+
+![Social-Network-App-Demo](https://raw.githubusercontent.com/ZhuBoao/Social-Network-App-Demo/master/assets/images/screenshot.jpg)
