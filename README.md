@@ -17,7 +17,7 @@ git clone https://github.com/ZhuBoao/Social-Network-App-Demo
 
 2. **Install dependencies**
 
-    **Note:** This project is using [Yarn](https://yarnpkg.com/en/ "Yarn") as dependency managemeng tool. Please make sure to [install it](https://yarnpkg.com/en/docs/install "Yarn") first.
+**Note:** This project is using [Yarn](https://yarnpkg.com/en/ "Yarn") as dependency managemeng tool. Please make sure to [install it](https://yarnpkg.com/en/docs/install "Yarn") first.
 
 ```
 cd react-native-elements-app
@@ -30,7 +30,7 @@ yarn install
 yarn start
 ```
 
-Press i to start a iOS simulator or a to start a Andoird simulator for testing. 
+Press **i** to start a iOS simulator or **a** to start a Andoird simulator for testing. 
 
 ## Features
 
