@@ -40,8 +40,6 @@ Press **i** to start a iOS simulator or **a** to start a Andoird simulator for t
 
 -   A mock login screen (no password check)
 
-https://raw.githubusercontent.com/ZhuBoao/Social-Network-App-Demo/master/assets/images/screenshot.jpg
-
 
 ## Screenshots
 
