@@ -17,7 +17,7 @@ git clone https://github.com/ZhuBoao/Social-Network-App-Demo
 
 2. **Install dependencies**
 
-**Note:** This project is using [Yarn](https://yarnpkg.com/en/ "Yarn") as dependency managemeng tool. Please make sure to [install it](https://yarnpkg.com/en/docs/install "Yarn") first.
+**Note:** This project is using [Yarn](https://yarnpkg.com/en/ "Yarn") as dependency management tool. Please make sure to [install it](https://yarnpkg.com/en/docs/install "Yarn") first.
 
 ```
 cd Social-Network-App-Demo
